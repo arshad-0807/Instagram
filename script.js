@@ -38,7 +38,7 @@ stories.addEventListener("click", function (dets) {
 
   setTimeout(function () {
     document.querySelector("#full-screen").style.display = "none";
-  }, 3000);
+  }, 2000);
 });
 
 // --------------------------------like--------------------
